@@ -1,2 +1,4 @@
+langchain
+langchain-tavily
 langgraph
 openai
